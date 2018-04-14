@@ -10,7 +10,8 @@ means.
 # Just give me credit if you use it for something
 
 Please give attribution to this originating work clearly in
-any derivations thereof. That is all. Enjoy the free software.
+any derivations thereof. That is all. Enjoy the free software,
+but don't be an a\*\*hat
 
 # legal mumbojumbo
 
